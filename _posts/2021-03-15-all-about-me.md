@@ -21,7 +21,7 @@ syntaxHighlighter: no
 看！这是我画的小狮子
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}lion.jpeg);"></div>
 
->下面是关于我的一些 Q&A~ 哈哈
+**下面是关于我的一些 Q&A~ 哈哈
 
 > - Q：平时的兴趣爱好有哪些？
 > - 就喜欢打棒球，跳皮筋也不错～
