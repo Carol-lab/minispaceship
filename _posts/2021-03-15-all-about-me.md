@@ -3,7 +3,7 @@ layout: post
 title:  "没有⚾️的人生,是不太高兴的"
 subtitle:  "Hi全世界~我是海来阿呷,让我跟你说说,我的一点儿想法吧"
 image:
-  feature: smile.jpeg
+  feature: stadium.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -53,7 +53,8 @@ syntaxHighlighter: no
 
 **小编附：
 **希望海来阿呷能拥抱更大的世界！
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}stadium.jpeg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}smile.jpeg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}standing.jpeg);"></div>
 
 
 
