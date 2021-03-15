@@ -53,7 +53,7 @@ syntaxHighlighter: no
 
 小编附：
 希望海来阿呷能拥抱更大的世界！
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}smile.jpeg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}泥土.jpeg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}standing.jpeg);"></div>
 
 
