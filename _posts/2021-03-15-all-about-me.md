@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "没有⚾️的人生,是不太高兴的"
-subtitle: "Hi全世界~我是海来阿呷,让我跟你说说,我的一点儿想法吧"
+subtitle:  "Hi全世界~我是海来阿呷,让我跟你说说,我的一点儿想法吧"
 image:
   feature: smile.jpeg
   topPosition: 0px
@@ -11,7 +11,7 @@ syntaxHighlighter: no
 ---
 
 
-_作者 : 蔷子 
+**作者 : 蔷子 
 
 > * hi~大家好，很高兴认识你们
 > * 我是海来阿呷😊!
