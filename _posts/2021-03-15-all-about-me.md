@@ -11,7 +11,7 @@ syntaxHighlighter: no
 ---
 
 
-** 作者 : 蔷子 
+作者 : 蔷子 
 
 > * hi~大家好，很高兴认识你们
 > * 我是海来阿呷😊!
@@ -21,7 +21,7 @@ syntaxHighlighter: no
 看！这是我画的小狮子
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}lion.jpeg);"></div>
 
-** 下面是关于我的一些 Q&A~ 哈哈
+下面是关于我的一些 Q&A~ 哈哈
 
 > - Q：平时的兴趣爱好有哪些？
 > - 就喜欢打棒球，跳皮筋也不错～
@@ -51,8 +51,8 @@ syntaxHighlighter: no
 > - 不高兴
 
 
-** 小编附：
-** 希望海来阿呷能拥抱更大的世界！
+小编附：
+希望海来阿呷能拥抱更大的世界！
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}smile.jpeg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}standing.jpeg);"></div>
 
