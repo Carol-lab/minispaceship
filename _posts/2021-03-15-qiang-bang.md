@@ -2,7 +2,7 @@
 layout: post
 title:  "棒!Girls!"
 image:
-  feature: 棒少女.jpeg
+  feature: smile.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
