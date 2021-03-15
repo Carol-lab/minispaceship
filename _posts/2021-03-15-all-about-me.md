@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "没有⚾️的人生,是不太高兴的"
-subtitle:  "Hi全世界~我是海来阿呷,让我跟你说说,我的一点儿想法吧"
+description:  "Hi全世界~我是海来阿呷,让我跟你说说,我的一点儿想法吧"
 image:
   feature: stadium.jpeg
   topPosition: 0px
+featured: ture
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
