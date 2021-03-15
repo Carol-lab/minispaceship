@@ -1,15 +1,15 @@
-# "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: '/Girls-Coding-Day-Jekyll-blog-3'
-baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/posts/'
-baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/hero/'
-baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumbnail/'
-baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
+# "/" 仓库的名字. 资源文件的路径组成部分
+baseurl: '/minispaceship'
+baseurl_posts_img: '/minispaceship/assets/images/posts/'
+baseurl_featured_img: '/minispaceship/assets/images/hero/'
+baseurl_featured_thumbnail: '/minispaceship/assets/images/thumbnail/'
+baseurl_javascripts: '/minispaceship/assets/javascripts/'
 
 # 网页的标题
 title: "棒棒女孩"
 # 网站的主标题
 name: "我可是玩⚾️的"
-description: "你好呀，我是强棒女孩海来阿呷⚾️~"
+description: "你好呀,我是强棒女孩海来阿呷⚾️~"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
