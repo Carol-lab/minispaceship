@@ -6,10 +6,10 @@ baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumb
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
-title: "Girls Coding Day"
+title: "棒棒女孩"
 # 网站的主标题
-name: "Girls Coding Day"
-description: "架起女性与编程的桥梁"
+name: "我可是玩⚾️的"
+description: "你好呀，我是强棒女孩海来阿呷⚾️~"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
