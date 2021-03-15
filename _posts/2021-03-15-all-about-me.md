@@ -5,7 +5,6 @@ description:  "Hi全世界~我是海来阿呷,让我跟你说说,我的一点儿
 image:
   feature: stadium.jpeg
   topPosition: 0px
-feature: ture
 tags: feature
 bgContrast: dark
 bgGradientOpacity: darker
